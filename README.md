@@ -1,10 +1,10 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import Home from './pages/Home';
-import About from './pages/About';
-import Services from './pages/Services';
-import Contact from './pages/Contact';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
+{ BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+ Home from './pages/Home';
+ About from './pages/About';
+ Services from './pages/Services';
+ Contact from './pages/Contact';
+'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
